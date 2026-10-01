@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-```text
+text
 👋 Hi, I'm Aman Sharma.
 
 💻 I enjoy building projects and learning new technologies.
@@ -34,7 +34,7 @@
 📚 Always learning something new.
 🤝 Open to collaboration and interesting projects.
 🎯 Goal: Build useful things and keep growing.
-```
+
 
 ---
 
@@ -84,109 +84,11 @@
 
 ## 📈 Contribution Activity
 
-# 👋 Hi, I'm Aman Sharma
+<div align="center">
 
-### 💻 Developer • Open Source Enthusiast • Lifelong Learner
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma792761-afk&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
----
-
-## 🧑‍💻 About Me
-
-```text
-👋 Hi, I'm Aman Sharma.
-
-💻 I enjoy building projects and learning new technologies.
-🚀 Currently improving my development skills.
-📚 Always learning something new.
-🤝 Open to collaboration and interesting projects.
-🎯 Goal: Build useful things and keep growing.
-
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-### ⚙️ Tools & Technologies
-
-> Replace the technologies above with the ones you actually use.
-
----
-
-## 📊 GitHub Analytics
-
----
-
-## 🔥 Contribution Streak
-
----
-
-## 📈 Contribution Activity
-
----
-
-## 🐍 Contribution Graph
-
----
-
-## 📌 Featured Projects
-
-> Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with your actual repository names.
-
----
-
-## ⭐ Repository Highlights
-
-| 📁 Category        | 🔗 Explore                                                                    |
-| ------------------ | ----------------------------------------------------------------------------- |
-| 🚀 My Projects     | [View Repositories](https://github.com/amansharma792761-afk?tab=repositories) |
-| ⭐ Starred Projects | [View Stars](https://github.com/amansharma792761-afk?tab=stars)               |
-| 📌 Featured Work   | [View Profile](https://github.com/amansharma792761-afk)                       |
-| 📝 GitHub Activity | [View Activity](https://github.com/amansharma792761-afk?tab=overview)         |
-
----
-
-## 🏆 GitHub Achievements
-
----
-
-## 📊 More GitHub Metrics
-
----
-
-## 💡 Currently Learning
-
-```text
-🔹 Improving programming skills
-🔹 Building real-world projects
-🔹 Exploring modern development tools
-🔹 Learning through open-source projects
-🔹 Improving problem-solving skills
-
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more real-world projects
-* 📚 Learn new technologies
-* 🤝 Contribute to open source
-* 💻 Improve coding consistency
-* ⭐ Create projects that are useful to others
-* 📈 Keep improving my GitHub profile
-
----
-
-## 🤝 Let's Connect
-
----
-
-### 💻 Code. Learn. Build. Repeat. 🚀
-
-⭐ If you find my projects useful, consider giving them a star!
+</div>
 
 ---
 
@@ -214,7 +116,7 @@
 
 </div>
 
-> Replace `YOUR_REPOSITORY_1` and `YOUR_REPOSITORY_2` with your actual repository names.
+> Replace YOUR_REPOSITORY_1 and YOUR_REPOSITORY_2 with your actual repository names.
 
 ---
 
@@ -259,13 +161,13 @@
 
 ## 💡 Currently Learning
 
-```text
+text
 🔹 Improving programming skills
 🔹 Building real-world projects
 🔹 Exploring modern development tools
 🔹 Learning through open-source projects
 🔹 Improving problem-solving skills
-```
+
 
 ---
 
