@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-text
+```text
 👋 Hi, I'm Aman Sharma.
 
 💻 I enjoy building projects and learning new technologies.
@@ -34,7 +34,7 @@ text
 📚 Always learning something new.
 🤝 Open to collaboration and interesting projects.
 🎯 Goal: Build useful things and keep growing.
-
+```
 
 ---
 
@@ -51,8 +51,6 @@ text
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nodejs,react,mongodb,mysql" />
 </p>
-
-> Replace the technologies above with the ones you actually use.
 
 ---
 
@@ -86,7 +84,9 @@ text
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma792761-afk&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<a href="https://github.com/amansharma792761-afk">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma792761-afk&theme=tokyo-night&hide_border=true&area=true&custom_title=Aman's%20GitHub%20Activity" width="100%" alt="Aman's GitHub Activity Graph"/>
+</a>
 
 </div>
 
@@ -115,8 +115,6 @@ text
 </a>
 
 </div>
-
-> Replace YOUR_REPOSITORY_1 and YOUR_REPOSITORY_2 with your actual repository names.
 
 ---
 
@@ -161,13 +159,13 @@ text
 
 ## 💡 Currently Learning
 
-text
+```text
 🔹 Improving programming skills
 🔹 Building real-world projects
 🔹 Exploring modern development tools
 🔹 Learning through open-source projects
 🔹 Improving problem-solving skills
-
+```
 
 ---
 
@@ -189,18 +187,6 @@ text
 <a href="https://github.com/amansharma792761-afk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<!-- Add your other social links below -->
-
-<!--
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
--->
 
 </div>
 
