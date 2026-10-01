@@ -96,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/amansharma792761-afk/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
