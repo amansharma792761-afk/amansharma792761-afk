@@ -86,11 +86,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma792761-afk&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<div align="center">
+
+<a href="https://github.com/amansharma792761-afk">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma792761-afk&theme=tokyo-night&hide_border=true&area=true&custom_title=Aman's%20GitHub%20Activity" width="100%" alt="Aman's GitHub Activity Graph"/>
+
+</a>
 
 </div>
-
----
 
 ## 🐍 Contribution Graph
 
