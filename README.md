@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aman Kumar
+# 👋 Hi, I'm Aman Sharma 
 
 ### 💻 Developer • Open Source Enthusiast • Lifelong Learner
 
